@@ -15,3 +15,7 @@ where:
 * ```-p``` defines the number of player (Process) to run the in mining,
 * ```-c``` defines the expected confirmation time,
 * ```-t``` defines the base-2-power of the target value of the PoW mining (Bitcoin is 2^224, so the base-2-power is 224)
+
+## methodology
+
+see paper {insert paper link}
