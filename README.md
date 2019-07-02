@@ -5,7 +5,7 @@ Proof of Play, a simple blockchain consensus based on PoW, PoS, and Proof-of-Exc
 ## Background
 Codes of the paper (BSCI 2019, Workshop under ASIACCS 2019):
 
-Proof-of-Play: A Novel Consensus Model for Blockchain-based Peer-to-Peer Gaming System, 
+**Proof-of-Play: A Novel Consensus Model for Blockchain-based Peer-to-Peer Gaming System**, 
 
 **Ho Yin Yuen (The Hong Kong Polytechnic University, China)**; 
 
