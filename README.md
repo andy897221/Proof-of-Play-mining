@@ -9,6 +9,8 @@ Codes of the paper (BSCI 2019, Workshop under ASIACCS 2019):
 
 **Ho Yin Yuen (The Hong Kong Polytechnic University, China)**; Feijie Wu (The Hong Kong Polytechnic University, China); Wei Cai (The Chinese University of Hong Kong, Shenzhen, China); Henry C.B. Chan (The Hong Kong Polytechnic University, China); Qiao Yan (Shenzhen University, China); Victor C.M. Leung (Shenzhen University, China)
 
+link to paper: https://doi.org/10.1145/3327960.3332386
+
 ## simulation.py
 
 run the script in the terminal as following:
