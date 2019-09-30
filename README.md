@@ -28,4 +28,4 @@ where:
 
 ## methodology
 
-see paper {insert paper link}
+see the paper
